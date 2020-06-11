@@ -9,3 +9,8 @@ git remote -v
 
 # Question 3 - How many and what parts are in an html document?
 2 - Header and Body
+
+# Question 4 - There are two ways to reference css styles in the header.
+# What are the two tags?
+style
+link
