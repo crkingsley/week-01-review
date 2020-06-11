@@ -14,3 +14,9 @@ git remote -v
 # What are the two tags?
 style
 link
+
+# Question 5 - How many ways can you declare a variable
+# hint - 1 old school way - the new ways
+camelCase
+Kabob_case 
+
